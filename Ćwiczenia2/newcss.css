@@ -1,0 +1,25 @@
+body{
+    background: grey;
+   
+   }
+
+   .square, .square2, .square3, .square4, .square5{   
+       width: 200px;
+       height:200px;
+       margin: 0px;
+       background: black;         
+       display: inline-block;
+       
+       
+     }
+
+
+
+     
+
+
+
+
+     
+
+    
